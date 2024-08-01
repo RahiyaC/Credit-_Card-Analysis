@@ -15,7 +15,16 @@ The project aims to provide valuable insights into consumer behavior, trends, an
 --OBJECTIVE--
 1. Pattern Recognition: By analyzing  credit card transaction data, the project aims to uncover hidden patterns and trends. These patterns can provide valuable insights into customer spending behavior, seasonal trends, and peak transaction times.
 2. Customer Segmentation: Through clustering and segmentation techniques, the project can group customers based on their spending habits, demographics, and transaction preferences. This information can be leveraged for targeted marketing campaigns and personalized customer experiences.
+   
+Imported necessary libraries, load the datasets, and had a basic understanding of the datasets.
+  
+--CLEANING DATA AND FEATURE ENGINEERING:--
 
+Checking for missing values, duplicates. Added new columns for feature engineering.
+
+--Limitations:--
+
+Had difficulties in converting 'Date' to date-time datatype.
 
 --APPROACH  USED--
 
