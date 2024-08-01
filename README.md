@@ -41,6 +41,7 @@ The project aims to provide valuable insights into consumer behavior, trends, an
 3.	Market Analysis: the purpose of this analysis is to understand the preferences of the customers. This provides insights to the marketing trends based on the expenses . 
 
   --CONCLUSION --
+  
 In conclusion, the findings from this report offer valuable insights for credit card companies to refine their targeting strategies based on user demographics, preferences, and seasonal trends. Understanding these patterns can aid in tailoring services to meet the diverse needs of distinct consumer segments in the dynamic landscape of credit card usage in India.
 ❖	Female spends are more than Male and has high values transactions under Expenses Type Bills.
 ❖	This insight can assist credit card companies in refining their targeting strategies based on specific credit card types to better cater to distinct customer segments.
